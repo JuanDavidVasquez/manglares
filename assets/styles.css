@@ -114,3 +114,7 @@ footer {
     padding: 10px 20px;
     margin-top: 40px;
 }
+
+.hidden{
+    display: none;
+}
